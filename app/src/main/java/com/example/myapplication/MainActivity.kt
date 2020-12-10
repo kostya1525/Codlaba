@@ -53,7 +53,7 @@ class MainActivity : AppCompatActivity() {
     }
     private fun undoImageView() : Int {
 
-        return R.drawable.empty_dice
+         return R.drawable.empty_dice
 
     }
 
